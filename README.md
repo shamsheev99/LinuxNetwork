@@ -1,11 +1,6 @@
 # Linux Network
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/x9fFrF7nTM7LmNLK8)
-
 Linux networks configuration on virtual machines.
-
-The russian version of the task can be found in the repository.
 
 ## Contents
 
@@ -26,31 +21,6 @@ The russian version of the task can be found in the repository.
 4. [Chapter IV](#chapter-iv)
 
 ## Chapter I
-
-![linux_network](misc/images/linux_network.png)
-
-Planet Earth, USA, California, Compton, Seb's Jazz Club, nowadays.
-
-\> *There's a new jazz band playing at the bar. Their jazz is a little more energetic than you're used to, although they're certainly talented.*
-
-`—` Sebastian, you have been sitting behind a desk in the office for a week now. Do you think you've learned how to use Linux? But given that you called me again in the middle of the week, I think I already know the answer...
-
-`—` I'm slowly getting the hang of it, but obviously not as quickly as I'd like.
-
-`—` Are you ready to go to work tomorrow?
-
-`—` I don't get it, I just don't get it, man. They tell me to work on configuration of networks. But to me it's just words. I want to meet my young self when I was a stupid kid who took the job as a sysadmin, talk him out of it, explain what's what, but I can't. What should I do, buddy?
-
-`—` Well, come on, you shouldn't despair. Configuring networks isn't so bad. I'd be happy to tell you about it if you answer one question: why did your father get you the job as a sysadmin anyway? I mean, this is his bar, why not here? That would be an easier job.
-
-`—` Who knows what's on the old man's mind. He says something about being independent and broadening your mind...
-
-`—` Well, then, let's keep broadening your mind. Get your laptop out, start the virtual machine, I'll show you what's what.
-
-\> *The regular band replace the new one, the music slows down and the waiter still hasn’t brought your order.*
-
-\> *While Sebastian is hesitatingly start the virtual machine, you decide to share some basic information about networks in Linux.*
-
 
 ## Chapter II
 ### TCP IP protocol stack
